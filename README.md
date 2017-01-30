@@ -1,0 +1,1 @@
+# spring-security-authenticating-ldap
